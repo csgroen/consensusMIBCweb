@@ -5,7 +5,7 @@ Runs a single-sample consensus classification of a given dataset.
 
 ## Installation
 
-To run this version of the app, please install shiny and its dependencies:
+To run this version of the app, please install shiny and its dependencies in R:
 
 ```{r}
 install.packages(c("shiny", "tidyverse", "readxl", "devtools"))
