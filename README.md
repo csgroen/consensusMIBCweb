@@ -18,5 +18,5 @@ You can run the app using:
 
 ```{r}
 library(shiny)
-runGithub("consensusMIBCweb", "csgroen")
+runGitHub("consensusMIBCweb", "csgroen")
 ```
