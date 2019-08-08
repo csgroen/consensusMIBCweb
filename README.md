@@ -8,7 +8,7 @@ Runs a single-sample consensus classification of a given dataset.
 To run this version of the app, please install shiny and its dependencies in R:
 
 ```{r}
-install.packages(c("shiny", "tidyverse", "readxl", "devtools"))
+install.packages(c("shiny", "tidyverse", "readxl", "devtools", "shinyWidgets"))
 devtools::install_github("cit-bioinfo/consensusMIBC")
 ```
 
