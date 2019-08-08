@@ -14,7 +14,7 @@ devtools::install_github("cit-bioinfo/consensusMIBC")
 
 ## Run the app
 
-You can run the app using:
+You can run the app by pasting the following code in R:
 
 ```{r}
 library(shiny)
